@@ -1,4 +1,4 @@
-## Hello world. 👋 I'm Anthony
+## Hello world 👋
 
 ### 💻 About Me
 
