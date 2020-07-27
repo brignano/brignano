@@ -1,12 +1,13 @@
 ## Hello world. 👋 I'm Anthony
 
-### 👨🏻‍💻 About Me.
+### 💻 About Me
 
-- 🤔 &nbsp; Full stack developer
-- 🎓 &nbsp; Currently reading about Cloud Architecture, Systems Design, and Machine Learning.
+- 🤔 &nbsp; Full Stack Developer
+- 🎓 &nbsp; Currently reading about Cloud Architecture, Systems Design, Machine Learning, and Penetration Testing.
 - 🌱 &nbsp; Climber, Snowboarder, Hiker, Beer Brewer, DJer
 
-### 🛠 techstack
+### 🛠 Tech Stack
+
 - 💻 &nbsp; Java | C# | Python | Swagger
 - 🌐 &nbsp; Angular | ReactJS | VueJS | HTML | CSS | sass | scss | JavaScript | TypeScript |  
     Bootstrap | Node.js | Ruby | Jekyll | Gatsby
@@ -19,7 +20,7 @@
 [![brignano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brignano&show_icons=true)](https://github.com/brignano)
 
 
-### 🤝🏻 @me
+### 📫 @me
 
 <a href="https://brignano.io/"><img alt="Website" src="https://img.shields.io/badge/Website-brignano.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/brignano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-brignano-blue?style=flat-square&logo=linkedin"></a>
