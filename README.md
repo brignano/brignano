@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me.
 
 - 🤔 &nbsp; Full stack developer
-- 🎓 &nbsp; Currently better educating myself around Cloud Architecture, Systems Design, and Machine Learning.
+- 🎓 &nbsp; Educating myself around Cloud Architecture, Systems Design, and Machine Learning.
 - 🌱 &nbsp; Climber, Snowboarder, Hiker, Beer Brewer, DJer
 
 ### 🛠 techstack
