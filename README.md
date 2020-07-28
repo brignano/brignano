@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 
-- :superhero: &nbsp; Full-Stack Developer
+- :man_technologist: &nbsp; Full-Stack Developer
 - :books: &nbsp; Currently reading about Cloud Architecture, Systems Design, Machine Learning, and Penetration Testing.
 - :climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, gamer
 
