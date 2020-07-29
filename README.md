@@ -20,6 +20,7 @@
 ### 📫 @me
 
 [![brignano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brignano&show_icons=true)](https://github.com/brignano)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://brignano.io/"><img alt="Website" src="https://img.shields.io/badge/Website-brignano.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/brignano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-brignano-blue?style=flat-square&logo=linkedin"></a>
