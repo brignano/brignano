@@ -8,7 +8,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Java | C# | Python | Swagger
+- 💻 &nbsp; Java | C# | Python | Ruby | PHP
 - 🌐 &nbsp; Angular | ReactJS | VueJS | HTML | CSS | sass | scss | JavaScript | TypeScript |  
     Bootstrap | Node.js | Ruby | Jekyll | Gatsby
 - 🛢 &nbsp; MySQL | MongoDB
