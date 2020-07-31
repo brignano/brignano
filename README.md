@@ -8,11 +8,13 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Java | C# | Python | Ruby | PHP
-- 🌐 &nbsp; Angular | ReactJS | VueJS | HTML | CSS | sass | scss | JavaScript | TypeScript | Bootstrap | Angular Material
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; GitHub | GitLab | Subversion | TFS | Rally | Visio | Jenkins | uDeploy | AntHillPro | SonarQube | NexusIQ | Dynatrace
-- 🖥 &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift
+- 💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS | VueJS
+- 🔍 CSS3 | Sass | scss | Bootstrap | Angular Material
+- 🔌 &nbsp; Java | C# | Python | Ruby | PHP
+- 🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower
+- 💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic
+- 🔧 &nbsp; GitHub | GitLab | Subversion | TFS | Rally | Jenkins | uDeploy | AntHillPro | SonarQube | NexusIQ | Dynatrace
+- ☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift
 
 ---
 
