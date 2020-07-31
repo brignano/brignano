@@ -12,7 +12,7 @@
 - 🌐 &nbsp; Angular | ReactJS | VueJS | HTML | CSS | sass | scss | JavaScript | TypeScript |  
     Bootstrap | Angular Material
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Subversion | TFS | Rally | Visio | Selenium
+- 🔧 &nbsp; Git | Subversion | TFS | Rally | Visio
 - 🖥 &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift | RedHat
 
 ---
