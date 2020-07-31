@@ -13,7 +13,7 @@
 - 🔌 &nbsp; Java | C# | Python | Ruby | PHP
 - 🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower
 - 💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic
-- 🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | Lambda | Amplify
+- 🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | S3 | Lambda | Amplify
 - ☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift
 
 ---
