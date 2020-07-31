@@ -10,9 +10,9 @@
 
 - 💻 &nbsp; Java | C# | Python | Ruby | PHP
 - 🌐 &nbsp; Angular | ReactJS | VueJS | HTML | CSS | sass | scss | JavaScript | TypeScript |  
-    Bootstrap | Node.js | Ruby | Jekyll | Gatsby
+    Bootstrap | Angular Material
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Subversion | TFS | Markdown | Selenium
+- 🔧 &nbsp; Git | Subversion | TFS | Rally | Visio | Selenium
 - 🖥 &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift | RedHat
 
 ---
