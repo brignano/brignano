@@ -12,8 +12,8 @@
 - 🌐 &nbsp; Angular | ReactJS | VueJS | HTML | CSS | sass | scss | JavaScript | TypeScript |  
     Bootstrap | Angular Material
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Subversion | TFS | Rally | Visio
-- 🖥 &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift | RedHat
+- 🔧 &nbsp; GitHub | GitLab | Subversion | TFS | Rally | Visio | Jenkins | uDeploy | AntHillPro
+- 🖥 &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift
 
 ---
 
