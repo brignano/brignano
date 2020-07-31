@@ -9,7 +9,7 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS | VueJS
-- 🔍 CSS3 | Sass | scss | Bootstrap | Angular Material
+- 🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material
 - 🔌 &nbsp; Java | C# | Python | Ruby | PHP
 - 🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower
 - 💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic
