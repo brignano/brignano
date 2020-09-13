@@ -3,7 +3,7 @@
 ### 💻 About Me
 
 - :man_technologist: &nbsp; Full Stack Developer
-- :books: &nbsp; Currently reading about Cloud Architecture, Systems Design, Machine Learning, and Penetration Testing.
+- :books: &nbsp; Currently reading about Cloud Architecture, Systems Design, Machine Learning, and Software Development.
 - :climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer
 
 ### 🛠 Tech Stack
