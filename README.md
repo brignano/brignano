@@ -11,7 +11,7 @@
 - 💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS | VueJS
 - 🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material
 - 🔌 &nbsp; Java | C# | Python | Ruby | PHP
-- 🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower
+- 🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss
 - 💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic
 - 🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | S3 | Lambda | Amplify
 - ☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift
