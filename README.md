@@ -3,14 +3,14 @@
 ### 💻 About Me
 
 - :man_technologist: &nbsp; Full Stack Developer
-- :books: &nbsp; Currently reading about Cloud Architecture, Systems Design, Machine Learning, and Software Development.
+- :books: &nbsp; Currently experimenting with Cloud Architecture, Open Source Software, and Machine Learning.
 - :climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS | VueJS
+- 💻 &nbsp; HTML5 | Handlebars | JavaScript | TypeScript | Angular | ReactJS | VueJS
 - 🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material
-- 🔌 &nbsp; Java | C# | Python | Ruby | PHP
+- 🔌 &nbsp; Java | C# | Python | Ruby | PHP | Markdown | JSON | XML
 - 🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss
 - 💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic
 - 🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | S3 | Lambda | Amplify
