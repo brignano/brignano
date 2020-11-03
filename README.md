@@ -1,12 +1,12 @@
-## Hello world 👋
+## hello world 👋
 
-### 💻 About Me
+### 💻 about me
 
 - :man_technologist: &nbsp; Full Stack Developer
 - :books: &nbsp; Currently experimenting with Cloud Architecture, Open Source Software, and Machine Learning.
 - :climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer
 
-### 🛠 Tech Stack
+### 🛠 tech stack
 
 - 💻 &nbsp; HTML5 | Handlebars | JavaScript | TypeScript | Angular | ReactJS | VueJS
 - 🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material
