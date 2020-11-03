@@ -1,20 +1,19 @@
 ## hello world 👋
 
 ### 💻 about me
-
-:man_technologist: &nbsp; Full Stack Developer  
-:books: &nbsp; Currently experimenting with Cloud Architecture, Open Source Software, and Machine Learning.  
-:climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer  
+&nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp; Full Stack Developer  
+&nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; Currently experimenting with Cloud Architecture, Open Source Software, and Machine Learning.  
+&nbsp;&nbsp;&nbsp;&nbsp;:climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer  
 
 ### 🛠 tech stack
 
-💻 &nbsp; HTML5 | Handlebars | JavaScript | TypeScript | Angular | ReactJS | VueJS  
-🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material  
-🔌 &nbsp; Java | C# | Python | Ruby | PHP | Markdown | JSON | XML  
-🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss  
-💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic  
-🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | S3 | Lambda | Amplify  
-☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift  
+&nbsp;&nbsp;&nbsp;&nbsp;💻 &nbsp; HTML5 | Handlebars | JavaScript | TypeScript | Angular | ReactJS | VueJS  
+&nbsp;&nbsp;&nbsp;&nbsp;🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material  
+&nbsp;&nbsp;&nbsp;&nbsp;🔌 &nbsp; Java | C# | Python | Ruby | PHP | Markdown | JSON | XML  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss  
+&nbsp;&nbsp;&nbsp;&nbsp;💾 &nbsp; MySQL | Oracle | Microsoft SQL Server | MongoDB | Firebase | SumoLogic  
+&nbsp;&nbsp;&nbsp;&nbsp;🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | S3 | Lambda | Amplify  
+&nbsp;&nbsp;&nbsp;&nbsp;☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift  
 
 ---
 
