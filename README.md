@@ -24,4 +24,3 @@
 <a href="mailto:anthonybrignano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anthonybrignano@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ![brignano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brignano&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brignano&layout=compact)
