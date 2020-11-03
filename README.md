@@ -23,5 +23,4 @@
 <a href="https://www.linkedin.com/in/brignano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-brignano-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:anthonybrignano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anthonybrignano@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-![anthony's github stats](![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true)
-)
+![anthony's github stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true)
