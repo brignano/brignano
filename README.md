@@ -1,6 +1,6 @@
 ## hello world 👋
 
-### 💻 about me
+### 👤 about me
 &nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp; Full Stack Developer  
 &nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; Currently experimenting with Cloud Architecture, Open Source Software, and Machine Learning.  
 &nbsp;&nbsp;&nbsp;&nbsp;:climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer  
