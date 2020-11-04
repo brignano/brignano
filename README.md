@@ -1,9 +1,9 @@
 ## hello world 👋
 
-### 👤 about me
-&nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp; Full Stack Developer  
-&nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; Currently experimenting with Cloud Architecture, Open Source Software, and Machine Learning.  
-&nbsp;&nbsp;&nbsp;&nbsp;:climbing_man: &nbsp; Climber, hiker, snowboarder, beer brewer, video gamer  
+### 👤 whoami
+&nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp; full stack developer  
+&nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; currently tinkering with: cloud architecture, open source software, and machine learning  
+&nbsp;&nbsp;&nbsp;&nbsp;:climbing_man: &nbsp; climber, hiker, snowboarder, brewer, gamer  
 
 ### 🛠 tech stack
 
