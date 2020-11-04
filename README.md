@@ -1,10 +1,6 @@
-## hello world 👋
+## hello world 👋 
 
-### 👤 whoami
-&nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp; full stack developer  
-&nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; currently tinkering with: cloud architecture, open source software, and machine learning    
-
-### 🛠 tech stack
+### 🛠 techstack
 
 &nbsp;&nbsp;&nbsp;&nbsp;💻 &nbsp; HTML5 | Handlebars | JavaScript | TypeScript | Angular | ReactJS | VueJS  
 &nbsp;&nbsp;&nbsp;&nbsp;🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Angular Material  
