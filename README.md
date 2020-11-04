@@ -2,8 +2,7 @@
 
 ### 👤 whoami
 &nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp; full stack developer  
-&nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; currently tinkering with: cloud architecture, open source software, and machine learning  
-&nbsp;&nbsp;&nbsp;&nbsp;:climbing_man: &nbsp; climber, hiker, snowboarder, brewer, gamer  
+&nbsp;&nbsp;&nbsp;&nbsp;:books: &nbsp; currently tinkering with: cloud architecture, open source software, and machine learning    
 
 ### 🛠 tech stack
 
