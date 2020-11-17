@@ -2,10 +2,10 @@
 
 ### 🛠 techstack
 
-💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS
+💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS  
 🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Material Design  
 🔌 &nbsp; Java | C# | Python | Ruby | PHP | Markdown | JSON | XML  
-🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss EAP 
+🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss EAP  
 💾 &nbsp; Oracle | Microsoft SQL Server | MongoDB | Firebase  
 🔧 &nbsp; GitHub | GitLab | TFS | Rally | Jenkins | uDeploy | SonarQube | NexusIQ | Dynatrace | EC2 | S3 | Lambda | Amplify | SumoLogic  
 ☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift  
