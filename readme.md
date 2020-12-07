@@ -79,6 +79,15 @@
       <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white"/>
     </td>
  </tr>
+ <tr>
+    <td>operating systems</td>
+     <td>
+      <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-OSX-999?style=flat-square&logo=apple&logoColor=white"/>
+    </td>
+ </tr>
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
