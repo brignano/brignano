@@ -30,7 +30,7 @@
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">framework</b></td>
+    <td>framework</td>
      <td>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
