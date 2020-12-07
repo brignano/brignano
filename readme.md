@@ -39,6 +39,9 @@
       <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
     </td>
  </tr>
  <tr>
@@ -81,6 +84,7 @@
       <img src="https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white"/>
       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white"/>
       <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/>
     </td>
  </tr>
  <tr>
