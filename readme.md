@@ -1,8 +1,8 @@
 # $ *whoami*
-<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mindset-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentality-white?style=flat-square"></a>
 
 <table>
  <tr>
