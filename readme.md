@@ -1,5 +1,4 @@
 ## $ *whoami*
-
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
@@ -101,7 +100,7 @@
  </tr>
 </table>
 
-#### @me
+### @me
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/) &nbsp; / &nbsp;
 [![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io) / &nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_)](https://twitter.com/brignano_) &nbsp; / &nbsp;
