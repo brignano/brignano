@@ -17,6 +17,7 @@
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
    <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white"/>
  </td>
  </tr>
  <tr>
@@ -87,6 +88,7 @@
       <img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/>
     </td>
  </tr>
  <tr>
