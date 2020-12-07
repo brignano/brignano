@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Jupytr-F37626?style=flat-square&logo=jupytr&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
