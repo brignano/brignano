@@ -63,6 +63,7 @@
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
     </td>
  </tr>
  <tr>
@@ -73,6 +74,8 @@
       <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Sonarqube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
     </td>
  </tr>
  <tr>
@@ -89,6 +92,11 @@
       <img src="https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Jupytr-F37626?style=flat-square&logo=jupytr&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
     </td>
  </tr>
  <tr>
