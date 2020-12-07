@@ -10,7 +10,7 @@
 #### current
 * working daily with `.yaml`, `.cs`, `.xml`, `.json`, `.sql`, and `.md` files
 * act as the technical lead for a team of developers (developing a scalable .NET solution)
-* experimenting with new technology
+* experimenting with new technology:
   * next.js
   * tensorflow
   * all things AWS
