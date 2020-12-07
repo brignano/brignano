@@ -16,6 +16,7 @@
   * onboard developers to new tools and processes
   * code reviews *(almost 1000 pull requests in less than a year :sweat_smile:)*
   * setup production alerting and monitoring
+  * manage Microsoft SQL databases
 * experimenting with new technology
   * next.js
   * tensorflow
