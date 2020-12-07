@@ -105,5 +105,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/) &nbsp; / &nbsp;
 [![GitHub Badge](https://img.shields.io/badge/-brignano-181717?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/brignano/)](https://www.github.com/brignano/) &nbsp; / &nbsp;
 [![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io) / &nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@brignano_-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_)](https://twitter.com/brignano_) &nbsp; / &nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_)](https://twitter.com/brignano_) &nbsp; / &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
