@@ -103,7 +103,7 @@
 
 #### @me
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/) &nbsp; / &nbsp;
-<a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a> &nbsp; / &nbsp;
+[![GitHub Badge](https://img.shields.io/badge/-brignano-181717?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/brignano/)](https://www.github.com/brignano/)
 [![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io) / &nbsp;
-<a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a> &nbsp; / &nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@brignano_-1DA1F2?style=flat-square&labelColor=fff&logo=twitter&link=https://twitter.com/brignano_)](https://twitter.com/brignano_)
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
