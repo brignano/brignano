@@ -36,21 +36,32 @@
         <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
     </td>
  </tr>
+ <tr>
+    <td><b style="font-size:30px">databases</b></td>
+     <td>
+        <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+        <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+    </td>
+ </tr>
+ <tr>
+    <td><b style="font-size:30px">infrastructure</b></td>
+     <td>
+        <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+        <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/>
+        <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
+        <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"/>
+        <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
+    </td>
+ </tr>
+ <tr>
+    <td><b style="font-size:30px">devops</b></td>
+     <td>
+        <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
+    </td>
+ </tr>
 </table>
-    
-**databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-**infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
- 
-**devops** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true&show_icons=true&include_all_commits=true)
 
