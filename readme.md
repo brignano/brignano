@@ -62,6 +62,7 @@
       <img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
  </tr>
  <tr>
@@ -87,6 +88,7 @@
       <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Jupytr-F37626?style=flat-square&logo=jupytr&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     </td>
  </tr>
  <tr>
