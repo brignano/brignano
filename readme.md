@@ -1,21 +1,17 @@
-## hello world 👋 
+## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/master/wave.gif" width="20px">
 
-### 🛠 techstack
-
-💻 &nbsp; HTML5 | JavaScript | TypeScript | Angular | ReactJS  
-🔍 &nbsp; CSS3 | Sass | scss | Bootstrap | Material Design  
-🔌 &nbsp; Java | C# | Python | Ruby | PHP | Markdown | JSON | XML  
-🌐 &nbsp; IIS | nginx | Apache | F5 | Datapower | JBoss EAP  
-💾 &nbsp; Oracle | Microsoft SQL Server | MongoDB | Firebase  
-🔧 &nbsp; Rally | Jenkins | uDeploy | SonarQube | Dynatrace | SumoLogic  
-☁️ &nbsp; AWS | Azure Cloud | Google Cloud | Digital Ocean | OpenShift  
 
 ---
 
 ### 📫 @me
 
-<a href="https://brignano.io/"><img alt="Website" src="https://img.shields.io/badge/Website-brignano.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/brignano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-brignano-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:anthonybrignano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anthonybrignano@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-![anthony's github stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true&hide_title=true)
+[![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/)
+[![Website Badge](https://img.shields.io/badge/-@brignano-grey?style=flat-square&labelColor=grey&logo=google-chrome&link=https://medium.com/@brignano/)](https://medium.com/@aemmadi)
+[![Twitter Badge](https://img.shields.io/badge/-brignano-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/bri/)](https://instagram.com/kanna6501)
+[![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
+
+![anthony's github stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true&hide_title=true)  
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
