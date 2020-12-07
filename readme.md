@@ -21,7 +21,7 @@
  </td>
  </tr>
  <tr>
-    <td>frameworks</td>
+    <td>framework</td>
      <td>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
@@ -35,7 +35,7 @@
     </td>
  </tr>
  <tr>
-    <td>databases</td>
+    <td>database</td>
      <td>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
     </td>
  </tr>
@@ -69,7 +69,7 @@
     </td>
  </tr>
  <tr>
-    <td>tools</td>
+    <td>tool</td>
      <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/>
@@ -92,7 +92,7 @@
     </td>
  </tr>
  <tr>
-    <td>systems</td>
+    <td>system</td>
      <td>
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
