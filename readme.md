@@ -88,12 +88,12 @@
     </td>
  </tr>
  <tr>
-    <td>operating systems</td>
+    <td>systems</td>
      <td>
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Macbook-999?style=flat-square&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white"/>
       <img src="https://img.shields.io/badge/-iPhone-black?style=flat-square&logo=ios&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
     </td>
