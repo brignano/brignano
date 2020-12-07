@@ -69,6 +69,10 @@
       <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-SonarLint-CC2026?style=flat-square&logo=sonarlint&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-WebStorm-000?style=flat-square&logo=webstorm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-PyCharm-000?style=flat-square&logo=pycharm&logoColor=white"/>
     </td>
  </tr>
 </table>
