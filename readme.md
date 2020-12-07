@@ -1,9 +1,9 @@
 ## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="30px">
 
-<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-purple?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-blue?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/TDD-Mindset-green?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-orange?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/TDD-Mindset-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-white?style=flat-square"></a>
 
 * Contributing on <a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a>
 * *Trying* to start using <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a>  
