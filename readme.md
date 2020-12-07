@@ -28,7 +28,7 @@
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">frameworks</b></td>
+    <td><b style="font-size:30px">framework</b></td>
      <td>
         <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
         <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
@@ -37,7 +37,7 @@
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">databases</b></td>
+    <td><b style="font-size:30px">database</b></td>
      <td>
         <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
         <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
