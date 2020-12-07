@@ -10,6 +10,7 @@
 #### current
 * working daily with `.yaml`, `.cs`, `.xml`, `.json`, `.sql`, and `.md` files
 * acting as the technical lead for a team of developers
+  * .NET solution (multiple batch and service applications)
   * setup CI/CD pipelines
   * enforce best practices and standards
   * onboard developers to new tools and processes
