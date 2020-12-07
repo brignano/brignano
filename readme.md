@@ -1,4 +1,4 @@
-## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/master/wave.gif" width="20px">
+## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="20px">
 
 
 ---
