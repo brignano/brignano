@@ -86,6 +86,7 @@
       <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jupytr-F37626?style=flat-square&logo=jupytr&logoColor=white"/>
     </td>
  </tr>
  <tr>
