@@ -1,4 +1,4 @@
-## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="20px">
+## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/)
 [![Website Badge](https://img.shields.io/badge/-@brignano-grey?style=flat-square&labelColor=grey&logo=google-chrome&link=https://brignano.io)](https://brignano.io)
