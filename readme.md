@@ -13,7 +13,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
 
 ## technology
-
+<p>
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=brignano&count_private=true&show_icons=true&include_all_commits=true"/>
+ <p>
 <table border="0">
  <tr>
     <td><b style="font-size:30px">syntax</b></td>
@@ -62,6 +64,8 @@
     </td>
  </tr>
 </table>
+</p>
+</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true&show_icons=true&include_all_commits=true)
 
