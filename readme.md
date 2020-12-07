@@ -5,6 +5,22 @@
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentality-white?style=flat-square"></a>
 
+> *Always looking to contribute on open source projects*.
+
+#### current
+* working daily with `.yaml`, `.cs`, `.xml`, `.json`, `.sql`, and `.md` files
+* acting as the technical lead for a team of developers
+  * setup CI/CD pipelines
+  * enforce best practices and standards
+  * onboard developers to new tools and processes
+  * code reviews *(almost 1000 pull requests in less than a year :sweat_smile:)*
+  * setup alerting and monitoring using SumoLogic
+* experimenting with new technology
+  * next.js
+  * tensorflow
+  * all things AWS
+
+#### techstack
 <table>
  <tr>
   <td>syntax</td>
