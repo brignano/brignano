@@ -31,7 +31,6 @@
       <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
     </td>
  </tr>
  <tr>
