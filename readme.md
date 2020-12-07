@@ -112,6 +112,6 @@
 #### @me
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/) &nbsp; / &nbsp;
 <a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a> &nbsp; / &nbsp;
-[![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io) &nbsp; / &nbsp;
+[![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io) / &nbsp;
 <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a> &nbsp; / &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
