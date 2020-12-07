@@ -1,13 +1,24 @@
 ## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="30px">
 
+<p text-align="center">
+    
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/)
 [![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io)
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)  
-    
+
+</p>
 * Contributing on <a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a> 
 * Trying to start using <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a>  
 
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/DevOps-Mindset-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-OCD-_.svg"></a>
+</p>
+
 ## ⚡ Technologies
+
+<center>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -31,6 +42,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+</center>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=brignano&count_private=true&show_icons=true&include_all_commits=true)
 
