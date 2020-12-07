@@ -11,7 +11,7 @@
 * Trying to start using <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a>  
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/DevOps-Mindset-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/DevOps-Mindset-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-OCD-_.svg"></a>
 </p>
