@@ -14,9 +14,10 @@
 
 ## technology
 
-<p>
-    <span align="left">syntax </p>
-    <p>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">syntax</b></td>
+     <td>
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
         <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
@@ -24,8 +25,11 @@
         <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-    </p>
-</p>
+    </td>
+ </tr>
+ <tr>
+ </tr>
+</table>
 
 **frameworks** | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular)
