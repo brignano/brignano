@@ -86,6 +86,8 @@
       <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
       <img src="https://img.shields.io/badge/-OSX-999?style=flat-square&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
     </td>
  </tr>
 </table>
