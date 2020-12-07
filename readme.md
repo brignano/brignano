@@ -9,14 +9,7 @@
 
 #### current
 * working daily with `.yaml`, `.cs`, `.xml`, `.json`, `.sql`, and `.md` files
-* acting as the technical lead for a team of developers
-  * design and implement .NET solution (multiple batch and service applications)
-  * setup CI/CD pipelines
-  * enforce best practices and standards
-  * onboard developers to new tools and processes
-  * code reviews *(almost 1000 pull requests in less than a year :sweat_smile:)*
-  * setup production alerting and monitoring
-  * manage Microsoft SQL databases
+* act as the technical lead for a team of developers (developing a scalable .NET solution)
 * experimenting with new technology
   * next.js
   * tensorflow
