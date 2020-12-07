@@ -1,7 +1,7 @@
 ## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="30px">
 
-[![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io)
 [![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brignano/)](https://www.linkedin.com/in/brignano/)
+[![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io)
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)  
     
 * Contributing on <a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a> 
