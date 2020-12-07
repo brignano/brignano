@@ -50,7 +50,7 @@
      <td>
       <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/>
       <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
-      <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"/>
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -59,9 +59,9 @@
  <tr>
     <td>devops</td>
      <td>
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
-      <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Sonarqube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
     </td>
