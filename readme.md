@@ -28,13 +28,15 @@
     </td>
  </tr>
  <tr>
+    <td><b style="font-size:30px">frameworks</b></td>
+     <td>
+        <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
+        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+        <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+    </td>
  </tr>
 </table>
-
-**frameworks** | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
     
 **databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
