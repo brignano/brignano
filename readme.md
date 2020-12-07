@@ -85,6 +85,7 @@
       <img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/>
     </td>
  </tr>
  <tr>
