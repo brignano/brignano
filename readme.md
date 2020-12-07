@@ -15,7 +15,7 @@
 ## technology
 
 <p>
-    <p align="left">syntax </p>
+    <span align="left">syntax </p>
     <p>
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
