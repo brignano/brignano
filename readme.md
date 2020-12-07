@@ -32,10 +32,10 @@
  <tr>
     <td><b style="font-size:30px">framework</b></td>
      <td>
-      <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
       <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-      <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     </td>
  </tr>
  <tr>
