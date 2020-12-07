@@ -1,6 +1,4 @@
-## hello world <img src="https://raw.githubusercontent.com/brignano/brignano/main/wave.gif" width="30px">
-
-## whoami
+## $ *whoami*
 
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
@@ -111,5 +109,3 @@
 [![Website Badge](https://img.shields.io/badge/-brignano.io-fff?style=flat-square&labelColor=fff&logo=google-chrome&link=https://brignano.io)](https://brignano.io) / &nbsp;
 <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a> &nbsp; / &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
