@@ -20,7 +20,7 @@
   * tensorflow
   * all things AWS
 
-#### techstack
+#### past
 <table>
  <tr>
   <td>syntax</td>
