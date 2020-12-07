@@ -7,10 +7,10 @@
 * Contributing on <a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a>
 * Trying to start using <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a>  
 
-<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-_.svg"></a>
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-_.svg"></a>
-<a href="#"><img src="https://img.shields.io/badge/TDD-Mindset-_.svg"></a>
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-_.svg?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-_.svg?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/TDD-Mindset-_.svg?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg?style=flat-square"></a>
 
 ## ⚡ Technologies
 
