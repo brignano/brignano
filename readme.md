@@ -18,9 +18,9 @@
  <tr>
     <td><b style="font-size:30px">syntax</b></td>
      <td>
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C%23%20-00599C?style=flat-square&logo=c%20sharp"/>
       <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
