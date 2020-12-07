@@ -5,6 +5,7 @@
 <a href="#"><img src="https://img.shields.io/badge/TDD-First-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Always-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Agile-Mindset-white?style=flat-square"></a>
 
 * Contributing on <a href="https://github.com/brignano"><img src="https://img.shields.io/github/followers/brignano.svg?label=GitHub&style=social" alt="GitHub"></a>
 * *Trying* to start using <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/twitter/follow/brignano_?label=Twitter&style=social" alt="Twitter"></a>  
