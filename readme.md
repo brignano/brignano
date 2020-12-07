@@ -25,6 +25,7 @@
       <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+      <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
     </td>
  </tr>
  <tr>
@@ -51,6 +52,7 @@
       <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"/>
       <img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
     </td>
  </tr>
  <tr>
@@ -70,9 +72,9 @@
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SonarLint-CC2026?style=flat-square&logo=sonarlint&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-WebStorm-000?style=flat-square&logo=webstorm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-PyCharm-000?style=flat-square&logo=pycharm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white"/>
     </td>
  </tr>
 </table>
