@@ -15,7 +15,7 @@
   * enforce best practices and standards
   * onboard developers to new tools and processes
   * code reviews *(almost 1000 pull requests in less than a year :sweat_smile:)*
-  * setup alerting and monitoring using SumoLogic
+  * setup production alerting and monitoring
 * experimenting with new technology
   * next.js
   * tensorflow
