@@ -15,9 +15,9 @@
 
 ## whoami
 
-<table border="0">
+<table>
  <tr>
-    <td><b style="font-size:30px">syntax</b></td>
+    <td>syntax</td>
      <td>
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
@@ -39,14 +39,14 @@
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">database</b></td>
+    <td>database</td>
      <td>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">infrastructure</b></td>
+    <td>infrastructure</td>
      <td>
       <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/>
       <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
@@ -57,7 +57,7 @@
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">devops</b></td>
+    <td>devops</td>
      <td>
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
@@ -67,7 +67,7 @@
     </td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">tools</b></td>
+    <td>tools</td>
      <td>
       <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/>
