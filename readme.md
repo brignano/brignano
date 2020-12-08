@@ -54,7 +54,7 @@
     </td>
  </tr>
  <tr>
-    <td>infrastructure</td>
+    <td>servers</td>
      <td>
       <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/>
       <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
