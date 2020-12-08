@@ -3,6 +3,8 @@
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Engineer-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Cloud%20Systems-Architect-white?style=flat-square"></a>
+
 
 * :clipboard: technical lead for a (talented) team of .NET developers
 * :seedling: actively looking for open source projects worth contributing to
