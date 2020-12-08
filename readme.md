@@ -9,7 +9,7 @@
 - :clipboard: technical lead for a talented team of <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
 - :telescope: actively looking for [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to contribute to
 - :seedling: currently experimenting with <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a>, <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>, and <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> _(OCR)_
-- :speech_balloon: blog (may or may not be) coming soon...
+- :speech_balloon: blog (may or may not be) coming soon
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
 
