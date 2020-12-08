@@ -121,6 +121,8 @@
        <a href="#"><img src="https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
+       <a href="#"><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white"/></a>
+       <a href="#"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/></a>
      </td>
   </tr>
  </table>
