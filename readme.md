@@ -21,8 +21,6 @@
   </li>
 </ul>
 
----
-
 <details>
   <summary>View my full tech stack.</summary>
   <br/>
