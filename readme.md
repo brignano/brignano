@@ -118,7 +118,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
 
 ## :mailbox_with_mail: @*me*
-[![Website Badge](https://img.shields.io/badge/-brignano.io-grey?style=flat-square&labelColor=grey&logo=google-chrome&logoColor=white&link=https://brignano.io)](https://brignano.io) &nbsp; / &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brignano)](https://linkedin.com/in/brignano) &nbsp; / &nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_)](https://twitter.com/brignano_) &nbsp; / &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
+<p align="center">
+ <a href="https://brignano.io" alt="Website Badge"><img src="https://img.shields.io/badge/-brignano.io-grey?style=flat-square&labelColor=grey&logo=google-chrome&logoColor=white&link=https://brignano.io"/></a> &nbsp; / &nbsp;
+ <a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brignano"/></a> &nbsp; / &nbsp;
+ <a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_"/></a> &nbsp; / &nbsp;
+ <a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)"/></a> &nbsp; / &nbsp;
+ </p>
