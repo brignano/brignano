@@ -9,7 +9,7 @@
 * :seedling: Actively looking to contribute to open source projects
 
 <details>
-  <summary>View my full tech stack</summary>
+  <summary>View my full tech stack.</summary>
   
  <table>
   <tr>
