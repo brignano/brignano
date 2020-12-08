@@ -60,7 +60,6 @@
       <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/>
-      <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
@@ -107,6 +106,7 @@
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white"/>
       <img src="https://img.shields.io/badge/-iPhone-black?style=flat-square&logo=ios&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
