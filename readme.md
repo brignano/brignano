@@ -13,7 +13,7 @@
   * **files**: `.sln`, `.cs`, `.xml`, `.json`, `.yaml`, `.sql`, `.md`
   * **tools**: `Visual Studio`, `GitHub`, `Jenkins`, `uDeploy`, `SonarQube`, `Checkmarx`, `SumoLogic`, `IIS`, `DataPower`, `F5`, `Dynatrace`, `MFT`, `Microsoft SQL Databases`
 * experiment with <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>, <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>, all things <img src="https://img.shields.io/badge/--232F3E?style=flat-square&logo=amazon-aws"/>
-* always look to contribute to open source projects
+* always looking to help open source projects
 
 #### Previously,
 <table>
