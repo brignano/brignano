@@ -14,7 +14,7 @@
     :telescope: always looking to help <a href="#"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img></a> projects
   </li>
   <li>
-    :seedling: currently playing with
+    :seedling: currently experimenting with,
   <ul>
     <li><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a></li>
     <li><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a></li>
