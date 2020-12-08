@@ -51,7 +51,8 @@
        <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-     </td>
+       <a href="#"><img src="https://img.shields.io/badge/-Ruby%20On%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white"/></a>
+</td>
   </tr>
   <tr>
      <td>database</td>
