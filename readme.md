@@ -7,7 +7,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
 
 - :clipboard: technical lead for a talented team of <a href="#"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
-- :telescope: actively looking to contribute on open source projects
+- :telescope: actively looking for [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to contribute to
 - :seedling: experimenting with Next.js, OCR, and AWS
 - :speech_balloon: blog (may or may not be) coming soon...
 
