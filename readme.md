@@ -8,10 +8,10 @@
 
 <ul>
   <li>
-    :clipboard: technical lead for a talented team of <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
+    :clipboard: working by day - as a technical lead - to create a new <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> reporting solution
   </li>
   <li>
-    :telescope: actively looking for <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img> projects to contribute to
+    :telescope: always looking for <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img> projects to contribute to
   </li>
   <li>
     :seedling: currently experimenting with
