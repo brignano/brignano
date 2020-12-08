@@ -1,14 +1,15 @@
-# $ *whoami*
+# $ *whoami* <img src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" width="50">
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
 
-
+* Currently functioning as a technical lead along with a talented team of .NET developers
+* 
 
 <details>
-  <summary>View my past experience.</summary>
+  <summary>View my full experience.</summary>
   
  <table>
   <tr>
