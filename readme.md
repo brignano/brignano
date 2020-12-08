@@ -37,8 +37,8 @@
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
       <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Nodes.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
@@ -57,8 +57,8 @@
     <td>servers</td>
      <td>
       <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/>
-      <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
+      <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx&logoColor=white"/>
