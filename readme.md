@@ -8,6 +8,8 @@
 * :clipboard: Working as a technical lead on a team of .NET developers
 * :seedling: Actively looking to contribute to open source projects
 
+---
+
 <details>
   <summary>View my full tech stack.</summary>
   
