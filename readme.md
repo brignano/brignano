@@ -1,9 +1,11 @@
 # $ *whoami*
-<a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
+<span align="center">
+ <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
+ <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
+</span>
 
 #### Currently,
 * act as the technical lead for a team of .NET developers
