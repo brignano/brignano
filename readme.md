@@ -35,7 +35,7 @@
   </td>
   </tr>
   <tr>
-     <td>frameworks</td>
+     <td>frontend</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/></a>
@@ -43,10 +43,14 @@
        <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+     </td>
+  </tr>
+  <tr>
+     <td>backend</td>
+      <td>
        <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
      </td>
   </tr>
   <tr>
@@ -115,6 +119,7 @@
        <a href="#"><img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/></a>
+       <a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
      </td>
   </tr>
  </table>
