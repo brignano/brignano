@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
     </td>
  </tr>
  <tr>
@@ -111,7 +111,7 @@
       <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
       <img src="https://img.shields.io/badge/-iPhone-black?style=flat-square&logo=ios&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     </td>
  </tr>
 </table>
