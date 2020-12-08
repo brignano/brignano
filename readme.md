@@ -42,6 +42,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/></a>
     <a href="#"><img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white"/></a>
   </td>
   </tr>
   <tr>
@@ -49,6 +50,7 @@
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/></a>
+       <a href="#"><img src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=Material-Design&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
@@ -132,7 +134,6 @@
        <a href="#"><img src="https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
      </td>
