@@ -118,7 +118,7 @@
 </details>
 
 
-## &nbsp; <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="50"></img> @*me* 
+## contact me &nbsp; <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="50"></img>
 <a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brignano"/></a> &nbsp; / &nbsp;
 <a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_"/></a> &nbsp; / &nbsp;
 <a href="https://brignano.io" alt="Website Badge"><img src="https://img.shields.io/badge/-brignano.io-grey?style=flat-square&labelColor=grey&logo=google-chrome&logoColor=white&link=https://brignano.io"/></a> &nbsp; / &nbsp;
