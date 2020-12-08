@@ -9,7 +9,7 @@
 * 
 
 <details>
-  <summary>View my full experience.</summary>
+  <summary>View my full tech stack.</summary>
   
  <table>
   <tr>
