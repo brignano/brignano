@@ -122,6 +122,6 @@
 
 ## Contact Me &nbsp; <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
 
-<a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/brignano"/></a> / 
-<a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/brignano_"/></a> / 
-<a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=c14438&link=mailto:anthonybrignano@gmail.com)"/></a>
+<a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brignano"/></a> / 
+<a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_"/></a> / 
+<a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)"/></a>
