@@ -8,7 +8,7 @@
 
 - :clipboard: technical lead for a talented team of <a href="#"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
 - :telescope: actively looking for [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to contribute to
-- :seedling: experimenting with Next.js, OCR, and AWS
+- :seedling: currently experimenting with <a href="#"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a>, <a href="#"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>, and <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> _(OCR)_
 - :speech_balloon: blog (may or may not be) coming soon...
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
