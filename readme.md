@@ -6,7 +6,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
 
-- :clipboard: technical lead for a (talented) team of .NET developers
+- :clipboard: technical lead for a talented team of .NET developers
 - :telescope: actively looking to contribute on open source projects
 - :seedling: experimenting with Next.js, OCR, and AWS
 - :speech_balloon: blog (may or may not be) coming soon
