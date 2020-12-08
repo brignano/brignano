@@ -16,7 +16,7 @@
   * <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>  
   * all things <img src="https://img.shields.io/badge/--232F3E?style=flat-square&logo=amazon-aws"/>
 
-#### Experience
+#### Previously,
 <table>
  <tr>
   <td>syntax</td>
