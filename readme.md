@@ -5,13 +5,15 @@
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
 
-* :clipboard: Working as a technical lead on a team of .NET developers
-* :seedling: Actively looking to contribute to open source projects
+* :clipboard: technical lead on a talented team of .NET developers
+* :seedling: looking to contribute to open source projects
+* :telescope: experimenting with Next.js, OCR, and AWS
+* :speech_balloon: blog (may or may not be) coming soon
 
 ---
 
 <details>
-  <summary>View my full tech stack.</summary>
+  <summary>my full tech stack</summary>
   
  <table>
   <tr>
