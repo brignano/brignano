@@ -13,19 +13,15 @@
     :clipboard: technical lead for a talented team of <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
   </li>
   <li>
-    :telescope: actively looking for [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to contribute to
+    :telescope: actively looking for <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img> projects to contribute to
   </li>
   <li>
     :speech_balloon: blog _(may or may not be)_ coming soon
   </li>
   <li>
-    :seedling: currently experimenting with: <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a>, <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>, and <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+    :seedling: currently experimenting with <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a>, <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>, <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
   </li>
 </ul>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
-</p>
 
 ---
 
@@ -149,5 +145,5 @@
 <a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=grey&link=https://linkedin.com/in/brignano"/></a> 
 <a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=grey&link=https://twitter.com/brignano_"/></a> 
 <a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:anthonybrignano@gmail.com)"/></a>
-<a href="https://brignano.io" alt="Website Badge"><img src="https://img.shields.io/badge/-https://brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io)"/></a>
-
+<a href="https://brignano.io" alt="Website Badge"><img src="https://img.shields.io/badge/-https://brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io)"/></a> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
