@@ -10,8 +10,8 @@
 #### Currently,
 * acting as the technical lead for a team of .NET developers
 * working daily with,
-  * **files**: `.sln`, `.cs`, `.xml`, `.json`, `.yaml`, `.sql`, `.md`, etc.
-  * **tools**: `GitHub`, `Jenkins`, `uDeploy`, `SonarQube`, `Checkmarx`, `SumoLogic`, `IIS`, `DataPower`, `F5`, `Dynatrace`, `MFT`, etc.
+  * **files**: `.sln`, `.cs`, `.xml`, `.json`, `.yaml`, `.sql`, `.md`
+  * **tools**: `Visual Studio`, `GitHub`, `Jenkins`, `uDeploy`, `SonarQube`, `Checkmarx`, `SumoLogic`, `IIS`, `DataPower`, `F5`, `Dynatrace`, `MFT`
 * experimenting with new technology: <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>, <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>, all things <img src="https://img.shields.io/badge/--232F3E?style=flat-square&logo=amazon-aws"/>
 
 #### Previously,
