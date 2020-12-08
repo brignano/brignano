@@ -54,7 +54,7 @@
      </td>
   </tr>
   <tr>
-     <td>databases</td>
+     <td>database</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
@@ -63,7 +63,7 @@
      </td>
   </tr>
   <tr>
-     <td>servers</td>
+     <td>server</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>
@@ -87,7 +87,7 @@
      </td>
   </tr>
   <tr>
-     <td>systems</td>
+     <td>system</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a>
@@ -99,7 +99,7 @@
      </td>
   </tr>
   <tr>
-     <td>tools</td>
+     <td>tool</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
