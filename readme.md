@@ -8,11 +8,11 @@
 > *Always looking to contribute on open source projects.*
 
 #### Currently,
-* acting as the technical lead for a team of .NET developers
-* working daily with,
+* act as the technical lead for a team of .NET developers
+* work daily with,
   * **files**: `.sln`, `.cs`, `.xml`, `.json`, `.yaml`, `.sql`, `.md`
   * **tools**: `Visual Studio`, `GitHub`, `Jenkins`, `uDeploy`, `SonarQube`, `Checkmarx`, `SumoLogic`, `IIS`, `DataPower`, `F5`, `Dynatrace`, `MFT`, `Microsoft SQL Databases`
-* experimenting with <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>, <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>, all things <img src="https://img.shields.io/badge/--232F3E?style=flat-square&logo=amazon-aws"/>
+* experiment with <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>, <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>, all things <img src="https://img.shields.io/badge/--232F3E?style=flat-square&logo=amazon-aws"/>
 
 #### Previously,
 <table>
