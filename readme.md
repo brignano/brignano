@@ -10,6 +10,8 @@
 * :telescope: experimenting with Next.js, OCR, and AWS
 * :speech_balloon: blog (may or may not be) coming soon
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
+
 ---
 
 <details>
