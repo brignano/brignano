@@ -13,7 +13,7 @@
 ---
 
 <details>
-  <summary>my full tech stack</summary>
+  <summary>View my full tech stack.</summary>
   
  <table>
   <tr>
