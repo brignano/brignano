@@ -11,9 +11,9 @@
 * working daily with `.yaml`, `.cs`, `.xml`, `.json`, `.sql`, and `.md` files
 * act as the technical lead for a team of developers (developing a scalable .NET solution)
 * experimenting with new technology:
-  * <a><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>
-  * tensorflow
-  * all things AWS
+  * <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js"/>
+  * <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  * all things <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/>
 
 #### past
 <table>
@@ -40,7 +40,6 @@
       <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
       <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/>
@@ -119,7 +118,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
 
 ## :mailbox_with_mail: @*me*
-<a href="https://brignano.io" target="_blank" alt="Website Badge"><img src="https://img.shields.io/badge/-brignano.io-grey?style=flat-square&labelColor=grey&logo=google-chrome&logoColor=white&link=https://brignano.io"/></a> &nbsp; / &nbsp;
-<a href="https://linkedin.com/in/brignano" target="_blank" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brignano"/></a> &nbsp; / &nbsp;
-<a href="https://twitter.com/brignano_" target="_blank" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> &nbsp; / &nbsp;
-<a href="mailto:anthonybrignano@gmail.com" target="_blank" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com"/></a>
+[![Website Badge](https://img.shields.io/badge/-brignano.io-grey?style=flat-square&labelColor=grey&logo=google-chrome&logoColor=white&link=https://brignano.io)](https://brignano.io) &nbsp; / &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-brignano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brignano)](https://linkedin.com/in/brignano) &nbsp; / &nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-@brignano__-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brignano_)](https://twitter.com/brignano_) &nbsp; / &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
