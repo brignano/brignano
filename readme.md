@@ -7,7 +7,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
 
 - :clipboard: technical lead for a (talented) team of .NET developers
-- :telescope: actively looking for open source projects worth contributing to
+- :telescope: actively looking to contribute on open source projects
 - :seedling: experimenting with Next.js, OCR, and AWS
 - :speech_balloon: blog (may or may not be) coming soon
 
