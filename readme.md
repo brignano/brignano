@@ -10,7 +10,7 @@
 * :telescope: experimenting with Next.js, OCR, and AWS
 * :speech_balloon: blog (may or may not be) coming soon
 
-![](https://komarev.com/ghpvc/?username=brignano&style=flat-square)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
 
 ---
 
