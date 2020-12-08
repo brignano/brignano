@@ -5,7 +5,7 @@
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
 
-* :clipboard: technical lead on a talented team of .NET developers
+* :clipboard: technical lead for a (talented) team of .NET developers
 * :seedling: actively looking for open source projects to contribute towards
 * :telescope: experimenting with Next.js, OCR, and AWS
 * :speech_balloon: blog (may or may not be) coming soon
