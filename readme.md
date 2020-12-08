@@ -1,17 +1,30 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
+
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/DevOps-Engineer-white?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/Cloud%20Systems-Architect-white?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
+</p>
 
-  - :clipboard: technical lead for a talented team of <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
-  - :telescope: actively looking for [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to contribute to
-  - :speech_balloon: blog _(may or may not be)_ coming soon
-  - :seedling: currently experimenting with: <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a>, <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>, and <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<ul>
+  <li>
+    :clipboard: technical lead for a talented team of <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> developers
+  </li>
+  <li>
+    :telescope: actively looking for [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) projects to contribute to
+  </li>
+  <li>
+    :speech_balloon: blog _(may or may not be)_ coming soon
+  </li>
+  <li>
+    :seedling: currently experimenting with: <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a>, <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>, and <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+  </li>
+</ul>
 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
 </p>
 
 ---
