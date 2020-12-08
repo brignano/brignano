@@ -5,7 +5,7 @@
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
 
-* Currently functioning as a technical lead along with a talented team of .NET developers
+* Working as a technical lead on a talented team of .NET developers
 * 
 
 <details>
