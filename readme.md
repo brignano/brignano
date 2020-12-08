@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white"/>
  </td>
  </tr>
- <tr align="center">
+ <tr>
     <td>frameworks</td>
      <td>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
