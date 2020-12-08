@@ -118,7 +118,7 @@
 </table>
 
 <p align="center">
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge">
 </p>
 
 ## :mailbox_with_mail: @*me*
