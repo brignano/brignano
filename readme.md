@@ -6,7 +6,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
 
 * :clipboard: technical lead on a talented team of .NET developers
-* :seedling: looking to contribute to open source projects
+* :seedling: actively looking for open source projects to contribute towards
 * :telescope: experimenting with Next.js, OCR, and AWS
 * :speech_balloon: blog (may or may not be) coming soon
 
