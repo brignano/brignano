@@ -5,7 +5,7 @@
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Wizard-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Shift%20Left-Mentor-white?style=flat-square"></a>
 
-> *Always looking to contribute on open source projects*.
+> *Always looking to contribute on open source projects.*
 
 #### Currently,
 * acting as the technical lead for a team of .NET developers
