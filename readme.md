@@ -97,7 +97,7 @@
       </td>
   </tr>
   <tr>
-     <td>system</td>
+     <td>systems</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a>
@@ -109,7 +109,7 @@
      </td>
   </tr>
   <tr>
-     <td>tool</td>
+     <td>tools</td>
       <td>
        <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
