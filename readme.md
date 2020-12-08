@@ -123,6 +123,7 @@
        <a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/></a>
+       <a href="#"><img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
      </td>
   </tr>
  </table>
