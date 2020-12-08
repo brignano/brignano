@@ -17,7 +17,7 @@
 
 #### Previously,
 <table>
- <tr align="center">
+ <tr>
   <td>syntax</td>
   <td>
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
     </td>
  </tr>
- <tr align="center">
+ <tr>
     <td>databases</td>
      <td>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -56,7 +56,7 @@
       <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     </td>
  </tr>
- <tr align="center">
+ <tr>
     <td>servers</td>
      <td>
       <img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/>
@@ -68,7 +68,7 @@
       <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
     </td>
  </tr>
- <tr align="center">
+ <tr>
     <td>devops</td>
      <td>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -80,7 +80,7 @@
       <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
     </td>
  </tr>
- <tr align="center">
+ <tr>
     <td>tools</td>
      <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -103,7 +103,7 @@
       <img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/>
     </td>
  </tr>
- <tr align="center">
+ <tr>
     <td>systems</td>
      <td>
       <img src="https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white"/>
@@ -116,9 +116,6 @@
     </td>
  </tr>
 </table>
-
-<p align="center">
-</p>
 
 ## :mailbox_with_mail: @*me*
 <p align="center">
