@@ -1,4 +1,4 @@
-# $ *whoami* <img src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" width="50">
+# $ *whoami* <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
