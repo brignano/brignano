@@ -85,7 +85,8 @@
        <a href="#"><img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/></a>
-     </td>
+       <a href="#"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>
+      </td>
   </tr>
   <tr>
      <td>system</td>
