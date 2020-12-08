@@ -16,7 +16,7 @@
 
 <details>
   <summary>View my full tech stack.</summary>
-  
+  <br/>
  <table>
   <tr>
    <td>syntax</td>
