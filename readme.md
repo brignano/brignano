@@ -14,15 +14,15 @@
     :telescope: actively looking for <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img> projects to contribute to
   </li>
   <li>
-    :seedling: currently experimenting with 
+  :speech_balloon: blog <i>(may or may not be)</i> coming soon
+  </li>
+  <li>
+    :seedling: currently experimenting with: 
   <ul>
     <li><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a></li>
     <li><a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a></li>
     <li><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a></li>
   </ul>
-  </li>
-  <li>
-  :speech_balloon: blog <i>(may or may not be)</i> coming soon
   </li>
 </ul>
 
