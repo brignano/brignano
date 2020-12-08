@@ -1,10 +1,10 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
-<a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/DevOps-Engineer-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Cloud-Architect-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/DevOps-Engineer-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Cloud-Architect-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=for-the-badge"></a>
 
 <ul>
   <li>
