@@ -1,14 +1,15 @@
-# $ *whoami* <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
+# $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
+
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/DevOps-Engineer-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Cloud%20Systems-Architect-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=flat-square"></a>
 
-* :clipboard: technical lead for a (talented) team of .NET developers
-* :telescope: actively looking for open source projects worth contributing to
-* :seedling: experimenting with Next.js, OCR, and AWS
-* :speech_balloon: blog (may or may not be) coming soon
+- :clipboard: technical lead for a (talented) team of .NET developers
+- :telescope: actively looking for open source projects worth contributing to
+- :seedling: experimenting with Next.js, OCR, and AWS
+- :speech_balloon: blog (may or may not be) coming soon
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
 
@@ -119,8 +120,8 @@
  </table>
 </details>
 
-
 ## Contact Me &nbsp; <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
-<a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/brignano"/></a> · 
-<a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/brignano_"/></a> · 
-<a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=c14438&link=mailto:anthonybrignano@gmail.com)"/></a> 
+
+<a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/brignano"/></a> ·
+<a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/brignano_"/></a> ·
+<a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=c14438&link=mailto:anthonybrignano@gmail.com)"/></a>
