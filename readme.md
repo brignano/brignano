@@ -11,7 +11,7 @@
     :clipboard: working by day - as a technical lead - to create a new <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a> reporting solution
   </li>
   <li>
-    :telescope: always looking for <a href="#"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img></a> projects to contribute to
+    :telescope: always looking to help <a href="#"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img></a> projects
   </li>
   <li>
     :seedling: currently playing with
