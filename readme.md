@@ -12,8 +12,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano)
 
----
-
 <details>
   <summary>View my full tech stack.</summary>
   
