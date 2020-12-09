@@ -135,6 +135,7 @@
        <a href="#"><img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/></a>
        <a href="#"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+       <a href="#"><img src="https://img.shields.io/badge/-Rally-CC092F?style=flat-square&logo=broadcom&logoColor=white"/></a>
      </td>
   </tr>
  </table>
