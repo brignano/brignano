@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    :clipboard: working as a Technical Lead developing a new <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-solution-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a>
+    :clipboard: working as a Technical Lead developing a large-scale <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-solution-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a>
   </li>
   <li>
     :telescope: always looking to contribute on <a href="#"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></img></a>
