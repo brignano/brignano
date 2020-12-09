@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    :hammer_and_wrench: working as a Technical Lead developing a large-scale <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-solution-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a>
+    :hammer_and_wrench: working as a Technical Lead developing a new <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-solution-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a>
   </li>
   <li>
     :telescope: always looking to support <a href="https://github.com/topics/open-source"><img src="https://img.shields.io/badge/-Open%20Source-black?style=social&logo=github"></img></a>
