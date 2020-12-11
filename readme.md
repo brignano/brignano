@@ -5,141 +5,28 @@
 <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=for-the-badge"></a>
 
-<ul>
-  <li>
-    :hammer_and_wrench: working _by day_ to develop a &nbsp; <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-solution-5C2D91?style=flat-square&logo=.net&logoColor=white"/></a>
-  </li>
-  <li>
-    :telescope: always looking to support &nbsp; <a href="https://github.com/topics/open-source"><img src="https://img.shields.io/badge/-Open%20Source-black?style=social&logo=github"></img></a>
-  </li>
-  <li>
-    :seedling: currently experimenting with &nbsp; <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></a> &nbsp; / &nbsp; <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp; / &nbsp; <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>
-  </li>
-</ul>
-
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
-  <summary>View my full tech stack.</summary>
-  <br/>
- <table>
-  <tr>
-   <td>syntax</td>
-   <td>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <a href="#"><img src="https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c%20sharp"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white"/></a>
-  </td>
-  </tr>
-  <tr>
-     <td>frontend</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=Material-Design&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-     </td>
-  </tr>
-  <tr>
-     <td>backend</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Ruby%20On%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/></a>
-</td>
-  </tr>
-  <tr>
-     <td>database</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
-     </td>
-  </tr>
-  <tr>
-     <td>server</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white"/></a>
-     </td>
-  </tr>
-  <tr>
-     <td>devops</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws"/></a>
-      </td>
-  </tr>
-  <tr>
-     <td>systems</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-iPhone-black?style=flat-square&logo=ios&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
-     </td>
-  </tr>
-  <tr>
-     <td>tools</td>
-      <td>
-       <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-SonarLint-CC2026?style=flat-square&logo=sonarlint&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
-       <a href="#"><img src="https://img.shields.io/badge/-Rally-CC092F?style=flat-square&logo=broadcom&logoColor=white"/></a>
-     </td>
-  </tr>
- </table>
+<summary><i>View my full tech stack</i></summary>
+
+| <!-- -->    | <!-- -->    |
+| -------- | --- |
+| syntax   | [![#](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![#](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](#) [![#](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](#) [![#](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c%20sharp)](#) [![#](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net)](#) [![#](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](#) [![#](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![#](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](#) [![#](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#) [![#](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white)](#) [![#](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white)](#) |
+| frontend | [![#](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#) [![#](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular)](#) [![#](https://img.shields.io/badge/-Material%20Design-757575?style=flat-square&logo=Material-Design&logoColor=white)](#) [![#](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](#) [![#](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](#) [![#](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](#) [![#](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](#) |
+| backend  | [![#](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](#) [![#](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)](#) [![#](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](#) [![#](https://img.shields.io/badge/-Ruby%20On%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)](#) [![#](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](#) |
+| database | [![#](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#) [![#](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) [![#](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](#) [![#](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](#) |
+| server   | [![#](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)](#) [![#](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)](#) [![#](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#) [![#](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=Red-Hat-Open-Shift)](#) [![#](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#) [![#](https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx&logoColor=white)](#) [![#](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)](#) |
+| devops   | [![#](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#) [![#](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) [![#](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](#) [![#](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](#) [![#](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)](#) [![#](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)](#) [![#](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)](#) [![#](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)](#) |
+| systems  | [![#](https://img.shields.io/badge/-MacOS-999?style=flat-square&logo=apple&logoColor=white)](#) [![#](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#) [![#](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](#) [![#](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](#) [![#](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)](#) [![#](https://img.shields.io/badge/-iPhone-black?style=flat-square&logo=ios&logoColor=white)](#) [![#](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](#) |
+| tools    | [![#](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#) [![#](https://img.shields.io/badge/-Visual%20Studio%20Code-4E9BCD?style=flat-square&logo=visual-studio-code&logoColor=white)](#) [![#](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](#) [![#](https://img.shields.io/badge/-SonarLint-CC2026?style=flat-square&logo=sonarlint&logoColor=white)](#) [![#](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)](#) [![#](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)](#) [![#](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white)](#) [![#](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)](#) [![#](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white)](#) [![#](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#) [![#](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#) [![#](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)](#) [![#](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)](#) [![#](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)](#) [![#](https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)](#) [![#](https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)](#) [![#](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)](#) [![#](https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)](#) [![#](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white)](#) [![#](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](#) [![#](https://img.shields.io/badge/-Rally-CC092F?style=flat-square&logo=broadcom&logoColor=white)](#) |
 </details>
 
-# @_me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
+# @_contactme_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
 
-<a href="https://linkedin.com/in/brignano" alt="Linkedin Badge"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=grey&link=https://linkedin.com/in/brignano"/></a>
-<a href="https://twitter.com/brignano_" alt="Twitter Badge"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=grey&link=https://twitter.com/brignano_"/></a>
-<a href="mailto:anthonybrignano@gmail.com" alt="Gmail Badge"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:anthonybrignano@gmail.com)"/></a>
-<a href="https://brignano.io" alt="Website Badge"><img src="https://img.shields.io/badge/-https://brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io)"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=grey&link=https://linkedin.com/in/brignano)](https://linkedin.com/in/brignano)
+[![Twitter Badge](https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=grey&link=https://twitter.com/brignano_)](https://twitter.com/brignano_)
+[![Gmail Badge](https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:anthonybrignano@gmail.com)](mailto:anthonybrignano@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-https://brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io)](https://brignano.io)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
