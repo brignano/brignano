@@ -6,6 +6,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=for-the-badge"></a>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <details>
