@@ -21,7 +21,7 @@ No Activity tracked this Week
       
   [![#](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![#](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](#) [![#](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](#) [![#](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c%20sharp)](#) [![#](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net)](#) [![#](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](#) [![#](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![#](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](#) [![#](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#) [![#](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white)](#) [![#](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white)](#)
       
-    </td>
+  </td>
   </tr>
   <tr>
     <td>frontend</td>
