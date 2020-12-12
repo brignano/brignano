@@ -6,9 +6,81 @@
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=for-the-badge"></a>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-481-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.7%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 774 Contributions in the Year 2020
+ > 
+> 📦 87.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+🌆 Daytime    24 commits     ███████████░░░░░░░░░░░░░░   44.44% 
+🌃 Evening    20 commits     █████████░░░░░░░░░░░░░░░░   37.04% 
+🌙 Night      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.26%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Wednesday    13 commits     ██████░░░░░░░░░░░░░░░░░░░   24.07% 
+Thursday     19 commits     ████████░░░░░░░░░░░░░░░░░   35.19% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Sunday       10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/brignano/brignano/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <details>
