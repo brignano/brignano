@@ -6,19 +6,19 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 782 Contributions in the Year 2020
+> 🏆 785 Contributions in the Year 2020
  > 
 > 📦 87.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-22 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
