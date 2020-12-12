@@ -12,16 +12,16 @@
 
 **🐱 My Github Data** 
 
-> 🏆 774 Contributions in the Year 2020
+> 🏆 776 Contributions in the Year 2020
  > 
-> 📦 87.3 kB Used in Github's Storage 
+> 📦 87.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
-
+21 Private Repository 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -56,9 +56,6 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 
@@ -75,10 +72,6 @@ C                        1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/brignano/brignano/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
