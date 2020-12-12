@@ -18,8 +18,7 @@
  > 
 > 📜 22 Public Repositories 
  > 
-22 Private Repository 
- > 
+ 
 **I'm an Early 🐤** 
 
 ```text
