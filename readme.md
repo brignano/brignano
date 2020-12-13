@@ -151,3 +151,5 @@ Shell                    2 repos             ███░░░░░░░░�
 <a href="mailto:hi@brignano.io"><img src="https://img.shields.io/badge/-hi@brignano.io-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:hi@brignano.io" alt="Gmail Badge"></img></a>
 <a href="https://brignano.io"><img src="https://img.shields.io/badge/-brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io" alt="Website Badge"></img></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
+
+**Pro Tip:** if you have `npm` installed, just run `npx brignano` to get my business card in your terminal.
