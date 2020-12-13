@@ -148,6 +148,6 @@ C                        1 repo              ██░░░░░░░░░�
 
 <a href="https://linkedin.com/in/brignano"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=grey&link=https://linkedin.com/in/brignano" alt="Linkedin Badge"></img></a>
 <a href="https://twitter.com/brignano_"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=grey&link=https://twitter.com/brignano_" alt="Twitter Badge"></img></a>
-<a href="mailto:anthonybrignano@gmail.com"><img src="https://img.shields.io/badge/-anthonybrignano@gmail.com-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:anthonybrignano@gmail.com" alt="Gmail Badge"></img></a>
+<a href="mailto:hi@brignano.io"><img src="https://img.shields.io/badge/-hi@brignano.io-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:hi@brignano.io" alt="Gmail Badge"></img></a>
 <a href="https://brignano.io"><img src="https://img.shields.io/badge/-https://brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io" alt="Website Badge"></img></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
