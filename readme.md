@@ -146,10 +146,9 @@ Shell                    2 repos             ███░░░░░░░░�
 
 # @ _contactme_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
 
-<a href="https://linkedin.com/in/brignano"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=grey&link=https://linkedin.com/in/brignano" alt="Linkedin Badge"></img></a>
-<a href="https://twitter.com/brignano_"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=grey&link=https://twitter.com/brignano_" alt="Twitter Badge"></img></a>
-<a href="mailto:hi@brignano.io"><img src="https://img.shields.io/badge/-hi@brignano.io-white?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:hi@brignano.io" alt="Gmail Badge"></img></a>
-<a href="https://brignano.io"><img src="https://img.shields.io/badge/-brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=grey&link=mailto:brignano.io" alt="Website Badge"></img></a>
+<a href="https://linkedin.com/in/brignano"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=0077B5&link=https://linkedin.com/in/brignano" alt="Linkedin Badge"></img></a>
+<a href="https://twitter.com/brignano_"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/brignano_" alt="Twitter Badge"></img></a>
+<a href="mailto:hi@brignano.io"><img src="https://img.shields.io/badge/-hi@brignano.io-white?style=flat-square&logo=Gmail&logoColor=D14836&link=mailto:hi@brignano.io" alt="Gmail Badge"></img></a>
+<a href="https://brignano.io"><img src="https://img.shields.io/badge/-brignano.io-white?style=flat-square&logo=Google-Chrome&logoColor=4285F4&link=https://brignano.io" alt="Website Badge"></img></a>
+<a href="#"><img src="https://img.shields.io/badge/-npx%20brignano-white?style=flat-square&logo=npm&logoColor=grey" alt="npm Badge"></img></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
-
-_**Pro Tip:** with `npm` installed, run `npx brignano` to contact me._
