@@ -49,14 +49,13 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               14 mins             ████████████████████████░   97.84% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,7 +72,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2021
+ Last Updated on 31/08/2021
 <!--END_SECTION:waka-->
 
 <details>
