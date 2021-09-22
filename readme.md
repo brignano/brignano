@@ -12,7 +12,7 @@
 
 > 🏆 33 Contributions in the Year 2021
  > 
-> 📦 116.7 kB Used in Github's Storage 
+> 📦 116.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Python                   2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 <details>
