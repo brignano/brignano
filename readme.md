@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62920%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,7 +72,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 <details>
