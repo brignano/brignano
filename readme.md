@@ -12,7 +12,7 @@
 
 > 🏆 53 Contributions in the Year 2021
  > 
-> 📦 117.0 kB Used in GitHub's Storage 
+> 📦 117.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2021
+ Last Updated on 21/12/2021
 <!--END_SECTION:waka-->
 
 <details>
