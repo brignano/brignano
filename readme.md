@@ -12,7 +12,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 117.1 kB Used in GitHub's Storage 
+> 📦 117.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->
 
 <details>
