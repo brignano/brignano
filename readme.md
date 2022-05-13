@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74%20Thousand%20lines%20of%20code-blue)
 
@@ -74,7 +74,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 00:52:19 UTC
+ Last Updated on 13/05/2022 00:59:12 UTC
 <!--END_SECTION:waka-->
 
 <details>
