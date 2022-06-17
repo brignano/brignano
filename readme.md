@@ -14,7 +14,7 @@
 
 > 🏆 28 Contributions in the Year 2022
  > 
-> 📦 117.5 kB Used in GitHub's Storage 
+> 📦 117.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,13 +51,14 @@ Sunday       44 commits     ███████████░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              █████████████████████░░░░   85.84% 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +75,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2022 00:53:51 UTC
+ Last Updated on 17/06/2022 00:46:53 UTC
 <!--END_SECTION:waka-->
 
 <details>
