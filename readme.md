@@ -51,13 +51,13 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,7 +74,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2022 00:45:56 UTC
+ Last Updated on 29/12/2022 00:46:37 UTC
 <!--END_SECTION:waka-->
 
 <details>
