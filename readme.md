@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142%20Thousand%20lines%20of%20code-blue)
 
@@ -22,6 +22,45 @@
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+🌆 Daytime    9 commits      ███████░░░░░░░░░░░░░░░░░░   28.12% 
+🌃 Evening    8 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌙 Night      14 commits     ███████████░░░░░░░░░░░░░░   43.75%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+Tuesday      4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Friday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Saturday     18 commits     ██████████████░░░░░░░░░░░   56.25% 
+Sunday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -35,7 +74,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 00:45:48 UTC
+ Last Updated on 04/01/2023 00:46:51 UTC
 <!--END_SECTION:waka-->
 
 <details>
