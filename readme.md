@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142%20Thousand%20lines%20of%20code-blue)
 
@@ -14,7 +14,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 118.6 kB Used in GitHub's Storage 
+> 📦 118.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,13 +51,18 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               33 mins             ███████████████████████░░   94.46% 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+Gherkin                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 34 mins             ████████████████████████░   97.17% 
+IntelliJ                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      35 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +79,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2023 00:46:51 UTC
+ Last Updated on 05/01/2023 00:48:13 UTC
 <!--END_SECTION:waka-->
 
 <details>
