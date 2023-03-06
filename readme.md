@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407.8%20thousand%20lines%20of%20code-blue)
 
@@ -49,18 +49,18 @@ Sunday                   3 commits           █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               27 hrs 30 mins      ███████████████████░░░░░░   76.65 % 
+TypeScript               27 hrs 29 mins      ███████████████████░░░░░░   76.64 % 
 Python                   2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 JSON                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 Gherkin                  1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 Other                    39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-WebStorm                 32 hrs 32 mins      ███████████████████████░░   90.65 % 
+WebStorm                 32 hrs 31 mins      ███████████████████████░░   90.65 % 
 VS Code                  3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 💻 Operating System: 
-Mac                      35 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +76,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2023 00:53:28 UTC
+ Last Updated on 06/03/2023 00:47:04 UTC
 <!--END_SECTION:waka-->
 
 <details>
