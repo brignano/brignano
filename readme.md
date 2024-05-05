@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -14,9 +14,11 @@
 
 > 📦 128.6 kB Used in GitHub's Storage 
  > 
+> 🏆 434 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -47,17 +49,17 @@ Sunday                   230 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     5 hrs 5 mins        █████████████░░░░░░░░░░░░   51.00 % 
-JSON                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+YAML                     4 hrs               █████████████░░░░░░░░░░░░   52.25 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +75,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2024 00:42:40 UTC
+ Last Updated on 05/05/2024 00:50:59 UTC
 <!--END_SECTION:waka-->
 
 <details>
