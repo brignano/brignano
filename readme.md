@@ -14,8 +14,6 @@
 
 > 📦 128.7 kB Used in GitHub's Storage 
  > 
-> 🏆 456 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -49,16 +47,13 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     13 mins             ████████████████████░░░░░   81.76 % 
-JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +69,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024 00:44:46 UTC
+ Last Updated on 24/05/2024 00:44:44 UTC
 <!--END_SECTION:waka-->
 
 <details>
