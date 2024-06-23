@@ -14,8 +14,6 @@
 
 > 📦 128.7 kB Used in GitHub's Storage 
  > 
-> 🏆 457 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -49,14 +47,13 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               34 mins             ███████████████████████░░   90.11 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +69,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 00:10:56 UTC
+ Last Updated on 23/06/2024 00:11:24 UTC
 <!--END_SECTION:waka-->
 
 <details>
