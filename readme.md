@@ -83,6 +83,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://linkedin.com/in/brignano"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=0077B5&link=https://linkedin.com/in/brignano" alt="Linkedin Badge"></img></a>
 <a href="mailto:hi@brignano.io"><img src="https://img.shields.io/badge/-hi@brignano.io-white?style=flat-square&logo=Gmail&link=mailto:hi@brignano.io" alt="Gmail Badge"></img></a>
 <a href="https://www.npmjs.com/package/brignano"><img src="https://img.shields.io/badge/-npx%20brignano-white?style=flat-square&logo=npm&logoColor=grey&link=https://www.npmjs.com/package/brignano" alt="npm Badge"></img></a>
-<a href="https://twitter.com/brignano_"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=x&link=https://x/brignano_" alt="X Badge"></img></a>
+<a href="https://twitter.com/brignano_"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=x&logoColor=black&link=https://x/brignano_" alt="X Badge"></img></a>
 <a href="https://brignano.io"><img src="https://img.shields.io/badge/-brignano.io-white?style=flat-square&logo=Google-Chrome&link=https://brignano.io" alt="Website Badge"></img></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
