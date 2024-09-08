@@ -6,15 +6,13 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 128.7 kB Used in GitHub's Storage 
- > 
-> 🏆 532 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +47,17 @@ Sunday                   228 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.48 % 
-YAML                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Terraform                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Python                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+YAML                     49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Terraform                35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Other                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +73,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 00:11:54 UTC
+ Last Updated on 08/09/2024 00:12:37 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
