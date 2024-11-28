@@ -14,7 +14,7 @@
 
 > 📦 128.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 540 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,14 +49,13 @@ Sunday                   233 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    33 mins             ███████████████████░░░░░░   77.06 % 
-YAML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +71,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2024 00:12:17 UTC
+ Last Updated on 28/11/2024 00:12:23 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
