@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -14,14 +14,52 @@
 
 > 📦 128.8 kB Used in GitHub's Storage 
  > 
-> 🏆 540 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                460 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+🌃 Evening                888 commits         █████████████░░░░░░░░░░░░   50.74 % 
+🌙 Night                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   439 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Tuesday                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Wednesday                206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Thursday                 320 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Friday                   153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Saturday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+YAML                     1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JavaScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+TypeScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -35,7 +73,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 00:12:58 UTC
+ Last Updated on 13/12/2024 00:13:01 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
