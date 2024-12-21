@@ -49,17 +49,13 @@ Sunday                   233 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               12 mins             █████████████░░░░░░░░░░░░   52.32 % 
-Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +71,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2024 00:12:36 UTC
+ Last Updated on 21/12/2024 00:11:42 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
