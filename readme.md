@@ -14,7 +14,7 @@
 
 > 📦 128.8 kB Used in GitHub's Storage 
  > 
-> 🏆 540 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 00:11:35 UTC
+ Last Updated on 01/01/2025 00:12:34 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
