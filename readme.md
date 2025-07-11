@@ -6,15 +6,13 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C291%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C291%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 129.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,16 +47,16 @@ Sunday                   401 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     20 mins             ██████████████████░░░░░░░   72.73 % 
-CSV                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Bash                     15 mins             ███████████████████░░░░░░   74.37 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+CSV                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +72,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025 00:11:19 UTC
+ Last Updated on 11/07/2025 00:10:53 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
