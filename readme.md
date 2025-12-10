@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -49,17 +49,17 @@ Sunday                   401 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.75 % 
-Terraform                1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-PowerShell               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    4 hrs 3 mins        ██████████████░░░░░░░░░░░   56.97 % 
+Terraform                1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+PowerShell               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2025 00:10:49 UTC
+ Last Updated on 10/12/2025 00:11:06 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
