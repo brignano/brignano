@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,15 +49,17 @@ Sunday                   529 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    47 mins             █████████████████████░░░░   85.21 % 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Other                    51 mins             █████████████████████░░░░   82.17 % 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +75,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2026 00:19:39 UTC
+ Last Updated on 02/12/2026 00:14:05 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
