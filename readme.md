@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,17 +49,17 @@ Sunday                   529 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 7 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-Other                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Terraform                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-TypeScript               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Markdown                 9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+Other                    4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Terraform                2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Go                       2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/26/2026 00:13:50 UTC
+ Last Updated on 02/27/2026 00:15:31 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
