@@ -6,6 +6,8 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C746%20hrs%2040%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,7 +49,7 @@ Sunday                   619 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    13 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   34.69 % 
+Other                    13 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   34.67 % 
 TypeScript               4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 TOML                     4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 YAML                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
@@ -73,7 +75,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/18/2026 00:29:58 UTC
+ Last Updated on 05/19/2026 00:33:12 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
