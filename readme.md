@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,18 +49,18 @@ Sunday                   543 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-HTML                     4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-TypeScript               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Markdown                 8 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+HTML                     6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+TypeScript               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 18 mins      █████████████████████░░░░   82.54 % 
-Claude Code              4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+VS Code                  23 hrs 49 mins      █████████████████████░░░░   83.48 % 
+Claude Code              4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 
 💻 Operating System: 
-Mac                      27 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      28 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:37:33 UTC
+ Last Updated on 06/11/2026 00:38:35 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
