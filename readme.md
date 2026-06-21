@@ -6,7 +6,7 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C904%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,18 +49,18 @@ Sunday                   938 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               8 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Python                   3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Markdown                 3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-HCL                      3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-TOML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Python                   5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+TypeScript               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+HCL                      3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Markdown                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+TOML                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 54 mins      █████████████████████████   99.93 % 
+VS Code                  28 hrs 5 mins       █████████████████████████   99.93 % 
 Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      27 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/20/2026 00:35:32 UTC
+ Last Updated on 06/21/2026 00:38:02 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
