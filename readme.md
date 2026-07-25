@@ -6,17 +6,19 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2058%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 152.7 kB Used in GitHub's Storage 
  > 
-> 🏆 929 Contributions in the Year 2026
+> 🏆 932 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -47,34 +49,34 @@ Sunday                   938 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 10 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.98 % 
-TypeScript               8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Python                   4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Markdown                 8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.09 % 
+TypeScript               6 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
+YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-Copilot CLI              19 hrs 5 mins       █████████████████░░░░░░░░   66.10 % 
-VS Code                  9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+Copilot CLI              11 hrs 55 mins      ██████████████░░░░░░░░░░░   57.30 % 
+VS Code                  8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
 
 💻 Operating System: 
-Mac                      28 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Mermaid                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               12 repos            ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Mermaid                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 07/24/2026 01:55:23 UTC
+ Last Updated on 07/25/2026 05:08:15 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
