@@ -6,6 +6,10 @@
 # $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-448%20hrs%2045%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,19 +51,39 @@ Sunday                   1061 commits        █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 28 mins             █████████████████████░░░░   82.65 % 
+Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Copilot CLI              1 min               █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 34 mins (100.0%)
+
+✍️ 83 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 219,829 Input Tokens, 512 Output Tokens
+
+💵 $0.67 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 19 AI Prompts
+
+Github-Copilot           86 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +99,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 05:33:26 UTC
+ Last Updated on 08/08/2026 04:05:17 UTC
 <!--END_SECTION:waka-->
 
 # @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
