@@ -34,6 +34,76 @@ Science Industry Advisory Board at Central Connecticut State University.
 <summary><b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C885%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-455%20hrs%2041%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 154.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,296 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Other                    6 hrs 27 mins       ███████████████████████░░   93.84 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 52 mins       █████████████████████████   99.96 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+💻 Operating System: 
+Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 52 mins (99.96%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 3,386,068 Input Tokens, 377,306 Output Tokens
+
+💵 $149.45 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 126 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 119 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+
+ Last Updated on 08/25/2026 01:23:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
