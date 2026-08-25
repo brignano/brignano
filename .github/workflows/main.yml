@@ -23,7 +23,14 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_PROFILE_VIEWS: false
           SHOW_PROJECTS: false
+          # Weekly AI breakdown — off. Its line-attribution telemetry reports all
+          # zeros, so the derived "insights" contradict each other ("Mostly
+          # Hands-On" and "High AI Trust" from the same null data). It also
+          # published a weekly cost estimate. The all-time badge below is a real
+          # measurement and stays.
+          SHOW_AI_CODING: false
           # Composition metrics — kept. These say what the work actually is.
+          SHOW_AI_CODE_TIME: true
           SHOW_LANGUAGE: true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_EDITORS: true

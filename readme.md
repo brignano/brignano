@@ -81,28 +81,6 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 52 mins (99.96%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 3,386,068 Input Tokens, 377,306 Output Tokens
-
-💵 $149.45 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 126 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
