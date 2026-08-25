@@ -1,92 +1,39 @@
-<a href="#"><img src="https://img.shields.io/badge/Full%20Stack-Developer-white?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/DevOps-Engineer-white?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Open%20Source-Advocate-white?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Fanatic-white?style=for-the-badge"></a>
+# Anthony Brignano
 
-# $ _whoami_ <img src="https://mariajandersen.com/wp-content/uploads/2019/03/gladkunde_gif.gif" width="50">
+**Senior Staff Software Engineer — Enterprise Platform Engineering @ The Hartford**
+
+I build the internal developer platform ~8,000 engineers use every day: CI/CD, developer
+tooling, and the paved roads that make the right way the easy way. Most of my attention
+right now is on making that platform AI-native — MCP servers and agent-safe interfaces
+over enterprise delivery systems.
+
+### What I'm working on
+
+- **Self-service onboarding** — new machine to productive in hours, down from a 40+ day baseline
+- **One build command, any stack** — context-aware builds that run identically on a laptop, in CI, or on remote build agents
+- **Agent-operable CI/CD** — MCP servers that let AI agents safely query and operate enterprise delivery systems
+- **DevOps intelligence** — streaming CLI and IDE telemetry into AWS and Snowflake to find where engineers actually lose time
+
+### Built in the open
+
+- **[ai-tools](https://github.com/brignano/ai-tools)** — one source of truth for AI-agent context, commands, and MCP servers, symlinked onto every machine I use
+- **[brignano.io](https://github.com/brignano/brignano.io)** — personal site and resume. Next.js 16, React 19, static export on Vercel
+- **`npx brignano`** — my card, in your terminal
+
+### Outside the day job
+
+Lead organizer of The Hartford's enterprise hackathons, rotation manager and career coach
+in the Tech & Operations Leadership Development Program, and a member of the Computer
+Science Industry Advisory Board at Central Connecticut State University.
+
+### Elsewhere
+
+[brignano.io](https://brignano.io) · [LinkedIn](https://linkedin.com/in/brignano) · [X](https://x.com/brignano_) · [hi@brignano.io](mailto:hi@brignano.io)
+
+<details>
+<summary><b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C885%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-448%20hrs%2049%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 154.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,179 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-🌆 Daytime                1304 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-🌃 Evening                2029 commits        ██████████░░░░░░░░░░░░░░░   39.00 % 
-🌙 Night                  1481 commits        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1373 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Tuesday                  633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Thursday                 755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   227 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Saturday                 938 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Sunday                   898 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               13 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-```
-
-
-
-
- Last Updated on 08/24/2026 04:00:46 UTC
 <!--END_SECTION:waka-->
 
-# @ _contact me_ <img src="https://infoodmarketing.com/wp-content/uploads/2017/02/InboxSmall3.gif" width="40"></img>
-
-<a href="https://linkedin.com/in/brignano"><img src="https://img.shields.io/badge/-brignano-white?style=flat-square&logo=Linkedin&logoColor=0077B5&link=https://linkedin.com/in/brignano" alt="Linkedin Badge"></img></a>
-<a href="mailto:hi@brignano.io"><img src="https://img.shields.io/badge/-hi@brignano.io-white?style=flat-square&logo=Gmail&link=mailto:hi@brignano.io" alt="Gmail Badge"></img></a>
-<a href="https://www.npmjs.com/package/brignano"><img src="https://img.shields.io/badge/-npx%20brignano-white?style=flat-square&logo=npm&logoColor=grey&link=https://www.npmjs.com/package/brignano" alt="npm Badge"></img></a>
-<a href="https://twitter.com/brignano_"><img src="https://img.shields.io/badge/-@brignano__-white?style=flat-square&logo=x&logoColor=black&link=https://x/brignano_" alt="X Badge"></img></a>
-<a href="https://brignano.io"><img src="https://img.shields.io/badge/-brignano.io-white?style=flat-square&logo=Google-Chrome&link=https://brignano.io" alt="Website Badge"></img></a>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brignano.brignano" alt="Visitor Badge"></img>
+</details>
