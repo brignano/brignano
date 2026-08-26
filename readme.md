@@ -8,7 +8,8 @@ I build the internal developer platform behind The Hartford's engineering org �
 
 ⚡ &nbsp;**Onboarding that takes hours, not weeks** — new machine to first commit, down from a 40+ day baseline<br>
 📦 &nbsp;**One build command, any stack** — identical build on your laptop, in CI, or on a remote agent<br>
-🤖 &nbsp;**Agent-operable CI/CD** — MCP servers that let AI agents safely drive 60,000+ enterprise pipelines<br>
+🤖 &nbsp;**Agent-operable CI/CD** — MCP servers that let AI agents safely query and operate enterprise delivery systems<br>
+⚙️ &nbsp;**Enterprise CI/CD at scale** — 60,000+ pipelines supported across 70,000+ runs a week<br>
 📊 &nbsp;**DevOps intelligence** — CLI and IDE telemetry into AWS + Snowflake, to find where engineers actually lose time
 
 ### 🧰 Stack
