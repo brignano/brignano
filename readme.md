@@ -2,13 +2,13 @@
 
 **Senior Staff Software Engineer** · Enterprise Platform Engineering @ The Hartford
 
-I build the internal developer platform ~8,000 engineers use every day — CI/CD, tooling, and the paved roads that make the right way the easy way. Lately I'm making it AI-native.
+I build the internal developer platform behind The Hartford's engineering org — CI/CD, tooling, and the paved roads that make the right way the easy way. 4,000+ engineers on it today, heading toward all 8,000. Lately I'm making it AI-native.
 
 ### 🔨 What I'm building
 
 ⚡ &nbsp;**Onboarding that takes hours, not weeks** — new machine to first commit, down from a 40+ day baseline<br>
 📦 &nbsp;**One build command, any stack** — identical build on your laptop, in CI, or on a remote agent<br>
-🤖 &nbsp;**Agent-operable CI/CD** — MCP servers that let AI agents safely drive enterprise pipelines<br>
+🤖 &nbsp;**Agent-operable CI/CD** — MCP servers that let AI agents safely drive 60,000+ enterprise pipelines<br>
 📊 &nbsp;**DevOps intelligence** — CLI and IDE telemetry into AWS + Snowflake, to find where engineers actually lose time
 
 ### 🧰 Stack
