@@ -56,7 +56,7 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 > 📦 154.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,302 Contributions in the Year 2026
+> 🏆 1,315 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,16 +70,16 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       ███████████████████████░░   92.29 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    6 hrs 52 mins       ███████████████████░░░░░░   75.62 % 
+Markdown                 2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 52 mins       █████████████████████████   98.30 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Claude Code              8 hrs 58 mins       █████████████████████████   98.69 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +95,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/26/2026 00:44:23 UTC
+ Last Updated on 08/27/2026 05:55:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
