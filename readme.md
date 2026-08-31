@@ -54,9 +54,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 154.6 kB Used in GitHub's Storage 
+> 📦 154.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,321 Contributions in the Year 2026
+> 🏆 1,335 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,16 +70,16 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    6 hrs 52 mins       ███████████████████░░░░░░   75.62 % 
-Markdown                 2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    6 hrs 27 mins       ███████████████████████░░   92.29 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 58 mins       █████████████████████████   98.69 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Claude Code              6 hrs 52 mins       █████████████████████████   98.30 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Mac                      9 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +95,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/30/2026 02:37:55 UTC
+ Last Updated on 08/31/2026 02:31:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
