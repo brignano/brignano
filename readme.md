@@ -48,15 +48,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 <summary>📈 &nbsp;<b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 154.7 kB Used in GitHub's Storage 
+> 📦 154.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,337 Contributions in the Year 2026
+> 🏆 1,341 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,17 +70,18 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         ███████████████░░░░░░░░░░   60.55 % 
-HTML                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Markdown                 1 hr 9 mins         █████████████░░░░░░░░░░░░   52.94 % 
+HTML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 42 mins        ███████████████████████░░   90.02 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Copilot CLI              1 hr 50 mins        █████████████████████░░░░   84.48 % 
+VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +97,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2026 02:12:26 UTC
+ Last Updated on 09/04/2026 02:08:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
