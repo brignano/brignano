@@ -70,18 +70,18 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 33 mins             ███████████░░░░░░░░░░░░░░   43.36 % 
-TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Go                       8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Markdown                 30 mins             ████████████░░░░░░░░░░░░░   46.39 % 
+TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+YAML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 7 mins         ██████████████████████░░░   87.96 % 
-VS Code                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Copilot CLI              56 mins             █████████████████████░░░░   85.82 % 
+VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 
 💻 Operating System: 
-Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/16/2026 02:31:08 UTC
+ Last Updated on 09/17/2026 02:35:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
