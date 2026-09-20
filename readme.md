@@ -48,15 +48,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 <summary>📈 &nbsp;<b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C895%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-465%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 155.0 kB Used in GitHub's Storage 
+> 📦 156.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,402 Contributions in the Year 2026
+> 🏆 1,475 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,14 +70,18 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 mins             █████████████████████████   100.00 % 
+Markdown                 1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   38.00 % 
+YAML                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Other                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-Copilot CLI              11 mins             █████████████████████████   98.44 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Copilot CLI              4 hrs 48 mins       ███████████████████████░░   93.90 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +97,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/19/2026 02:22:53 UTC
+ Last Updated on 09/20/2026 02:32:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
