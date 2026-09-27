@@ -54,9 +54,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 157.0 kB Used in GitHub's Storage 
+> 📦 156.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,594 Contributions in the Year 2026
+> 🏆 1,597 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,18 +70,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.38 % 
-Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-YAML                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Other                    32 mins             ██████████████░░░░░░░░░░░   54.97 % 
+Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+PowerShell               12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 38 mins       ████████████████████████░   94.75 % 
-VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Copilot CLI              58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +94,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/26/2026 02:41:33 UTC
+ Last Updated on 09/27/2026 02:41:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
