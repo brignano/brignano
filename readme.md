@@ -70,15 +70,13 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    32 mins             ██████████████░░░░░░░░░░░   54.97 % 
-Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-PowerShell               12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Copilot CLI              58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +92,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/29/2026 03:25:52 UTC
+ Last Updated on 09/30/2026 03:08:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
