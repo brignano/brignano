@@ -48,9 +48,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 <summary>📈 &nbsp;<b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C895%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-468%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,13 +70,14 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot                  21 mins             ███████████████████████░░   93.02 % 
+Copilot CLI              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +93,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 03:16:45 UTC
+ Last Updated on 10/03/2026 03:02:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
