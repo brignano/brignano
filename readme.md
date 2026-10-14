@@ -54,13 +54,13 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 160.1 kB Used in GitHub's Storage 
+> 📦 160.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,029 Contributions in the Year 2026
+> 🏆 2,066 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -70,20 +70,20 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
-TypeScript               5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Markdown                 4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Python                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Go                       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Other                    8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+TypeScript               5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Markdown                 4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Python                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Go                       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 Editors: 
-Copilot                  22 hrs 10 mins      ██████████████████░░░░░░░   73.14 % 
-Copilot CLI              6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Copilot                  21 hrs 2 mins       ███████████████████░░░░░░   74.26 % 
+Copilot CLI              5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Mac                      30 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/13/2026 04:41:47 UTC
+ Last Updated on 10/14/2026 02:50:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
