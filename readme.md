@@ -48,15 +48,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 <summary>📈 &nbsp;<b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C921%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-501%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-503%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.4 kB Used in GitHub's Storage 
+> 📦 160.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,066 Contributions in the Year 2026
+> 🏆 2,111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,20 +70,20 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-TypeScript               5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Markdown                 4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Python                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Go                       2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Other                    8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
+TypeScript               5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Markdown                 4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Python                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Go                       1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Copilot                  21 hrs 2 mins       ███████████████████░░░░░░   74.26 % 
-Copilot CLI              5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Copilot                  20 hrs              ███████████████████░░░░░░   74.65 % 
+Copilot CLI              5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Mac                      28 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/14/2026 02:50:03 UTC
+ Last Updated on 10/15/2026 02:29:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
