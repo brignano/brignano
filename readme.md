@@ -56,11 +56,11 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 > 📦 160.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,111 Contributions in the Year 2026
+> 🏆 2,114 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -70,20 +70,20 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    8 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-TypeScript               6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Markdown                 4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Python                   3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Other                    7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
+Python                   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+TypeScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Copilot                  18 hrs 49 mins      ███████████████████░░░░░░   74.81 % 
-Copilot CLI              4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Copilot                  12 hrs 19 mins      ██████████████████░░░░░░░   73.57 % 
+Copilot CLI              3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Mac                      25 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/16/2026 02:23:34 UTC
+ Last Updated on 10/17/2026 02:15:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
