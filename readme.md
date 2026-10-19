@@ -56,7 +56,7 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 > 📦 160.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,114 Contributions in the Year 2026
+> 🏆 2,116 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,19 +70,19 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.24 % 
-TypeScript               1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Other                    2 hrs 35 mins       █████████████░░░░░░░░░░░░   52.35 % 
+TypeScript               1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Copilot                  4 hrs 48 mins       ███████████████████░░░░░░   75.21 % 
-Copilot CLI              1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Copilot                  3 hrs 55 mins       ████████████████████░░░░░   79.63 % 
+Copilot CLI              49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/18/2026 02:16:05 UTC
+ Last Updated on 10/19/2026 02:31:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
