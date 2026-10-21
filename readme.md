@@ -54,9 +54,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 160.6 kB Used in GitHub's Storage 
+> 📦 160.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,116 Contributions in the Year 2026
+> 🏆 2,118 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,19 +70,19 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    2 hrs 35 mins       █████████████░░░░░░░░░░░░   52.35 % 
-TypeScript               1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   30.77 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               59 mins             ███████████░░░░░░░░░░░░░░   43.44 % 
+Other                    48 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-Copilot                  3 hrs 55 mins       ████████████████████░░░░░   79.63 % 
-Copilot CLI              49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Copilot                  1 hr 34 mins        █████████████████░░░░░░░░   68.61 % 
+Copilot CLI              32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 💻 Operating System: 
-Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/20/2026 02:44:10 UTC
+ Last Updated on 10/21/2026 02:38:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
