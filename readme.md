@@ -54,15 +54,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 161.7 kB Used in GitHub's Storage 
+> 📦 162.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,171 Contributions in the Year 2026
+> 🏆 2,210 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -88,17 +88,17 @@ Mac                      14 hrs 32 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
 
 
- Last Updated on 10/25/2026 02:26:24 UTC
+ Last Updated on 10/26/2026 02:25:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
