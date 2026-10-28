@@ -56,7 +56,7 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 > 📦 164.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,251 Contributions in the Year 2026
+> 🏆 2,255 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,19 +70,19 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               7 hrs               ████████████░░░░░░░░░░░░░   48.21 % 
-Other                    4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+TypeScript               7 hrs               █████████████░░░░░░░░░░░░   51.73 % 
+Other                    3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-Copilot                  6 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.08 % 
-Copilot CLI              4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-VS Code                  3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Copilot                  6 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.11 % 
+Copilot CLI              3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+VS Code                  3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
 
 💻 Operating System: 
-Mac                      14 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/27/2026 03:01:05 UTC
+ Last Updated on 10/28/2026 03:11:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
