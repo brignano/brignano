@@ -54,15 +54,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 164.3 kB Used in GitHub's Storage 
+> 📦 164.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,255 Contributions in the Year 2026
+> 🏆 2,357 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -70,19 +70,13 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 59 mins       ███████████████░░░░░░░░░░   60.29 % 
-Other                    1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Copilot                  4 hrs 25 mins       █████████████████░░░░░░░░   66.82 % 
-Copilot CLI              1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +92,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/30/2026 03:40:48 UTC
+ Last Updated on 10/31/2026 03:25:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
