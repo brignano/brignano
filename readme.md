@@ -54,15 +54,15 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 164.7 kB Used in GitHub's Storage 
+> 📦 169.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,357 Contributions in the Year 2026
+> 🏆 2,743 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 36 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -83,8 +83,8 @@ No Activity Tracked This Week
 
 ```text
 TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
@@ -92,7 +92,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/31/2026 03:25:28 UTC
+ Last Updated on 11/01/2026 03:26:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
