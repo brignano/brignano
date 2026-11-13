@@ -48,21 +48,21 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 <summary>📈 &nbsp;<b>Coding activity</b> — refreshed nightly</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C945%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-514%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-534%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 169.1 kB Used in GitHub's Storage 
+> 📦 430.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,743 Contributions in the Year 2026
+> 🏆 3,487 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -70,29 +70,34 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs               ███████████░░░░░░░░░░░░░░   44.96 % 
+Go                       39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot CLI              4 hrs 28 mins       █████████████████████████   99.79 % 
+Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 11/01/2026 03:26:20 UTC
+ Last Updated on 11/13/2026 10:30:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
