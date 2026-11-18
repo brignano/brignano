@@ -54,9 +54,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 462.6 kB Used in GitHub's Storage 
+> 📦 477.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3,565 Contributions in the Year 2026
+> 🏆 3,575 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,18 +70,18 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 9 hrs 44 mins       █████████████░░░░░░░░░░░░   50.70 % 
-Other                    5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-HTML                     3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 6 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.04 % 
+Other                    3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+HTML                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-Copilot CLI              12 hrs 2 mins       ████████████████░░░░░░░░░   62.66 % 
-VS Code                  7 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
+VS Code                  7 hrs 10 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Copilot CLI              6 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.05 % 
 
 💻 Operating System: 
-Mac                      19 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/17/2026 05:49:38 UTC
+ Last Updated on 11/18/2026 05:15:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
