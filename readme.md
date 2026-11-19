@@ -54,7 +54,7 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 477.3 kB Used in GitHub's Storage 
+> 📦 478.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,575 Contributions in the Year 2026
  > 
@@ -70,18 +70,18 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.04 % 
-Other                    3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-HTML                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Markdown                 4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
+Other                    3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+HTML                     2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 10 mins       █████████████░░░░░░░░░░░░   53.95 % 
-Copilot CLI              6 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.05 % 
+VS Code                  7 hrs 10 mins       ████████████████░░░░░░░░░   65.91 % 
+Copilot CLI              3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
 
 💻 Operating System: 
-Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/18/2026 05:15:17 UTC
+ Last Updated on 11/19/2026 05:10:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
