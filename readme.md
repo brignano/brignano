@@ -54,7 +54,7 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 484.0 kB Used in GitHub's Storage 
+> 📦 490.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,575 Contributions in the Year 2026
  > 
@@ -70,19 +70,19 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Other                    2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Go                       2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-HTML                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+Go                       2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+HTML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.29 % 
-Copilot CLI              3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-Copilot                  3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Copilot                  3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
+Copilot CLI              2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+VS Code                  1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
 
 💻 Operating System: 
-Mac                      11 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/20/2026 04:58:32 UTC
+ Last Updated on 11/21/2026 04:54:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
