@@ -54,9 +54,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 547.8 kB Used in GitHub's Storage 
+> 📦 538.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3,621 Contributions in the Year 2026
+> 🏆 3,707 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,25 +70,25 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 20 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.06 % 
-Other                    10 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Go                       3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-HTML                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Markdown                 19 hrs 51 mins      ████████████░░░░░░░░░░░░░   46.98 % 
+Other                    10 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Go                       3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+HTML                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-Copilot                  36 hrs 45 mins      ██████████████████████░░░   86.21 % 
-Copilot CLI              5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Copilot                  36 hrs 23 mins      ██████████████████████░░░   86.10 % 
+Copilot CLI              5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Mac                      42 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+TypeScript               13 repos            █████████░░░░░░░░░░░░░░░░   34.21 % 
 Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
@@ -98,7 +98,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/22/2026 04:12:56 UTC
+ Last Updated on 11/23/2026 04:53:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
