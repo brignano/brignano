@@ -54,9 +54,9 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 
 **🐱 My GitHub Data** 
 
-> 📦 544.6 kB Used in GitHub's Storage 
+> 📦 570.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,821 Contributions in the Year 2026
+> 🏆 4,015 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,19 +70,19 @@ Running The Hartford's enterprise hackathons, coaching associates through the Te
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 17 hrs 12 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
-Other                    8 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Go                       3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-HTML                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Markdown                 9 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.72 % 
+Other                    6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Go                       2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+HTML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-Copilot                  32 hrs 21 mins      ██████████████████████░░░   86.09 % 
-Copilot CLI              4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Copilot                  21 hrs 10 mins      █████████████████████░░░░   85.85 % 
+Copilot CLI              3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Mac                      37 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/24/2026 07:42:15 UTC
+ Last Updated on 11/25/2026 06:12:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
